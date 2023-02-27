@@ -43,6 +43,7 @@ public class Program {
 		
 		
 		sc.next();
+		sc.close();
 	}
 
 }
